@@ -8,10 +8,10 @@
 
 ## Tecnologias Utilizadas
 
-- [Node.js]()
-- [Tyscrypt]()
-- [SQlite]()
-- [Typeorm]()
+- [Node.js](https://nodejs.org/en/)
+- [Tyscrypt](https://www.typescriptlang.org/)
+- [SQlite](https://www.sqlite.org/)
+- [Typeorm](https://typeorm.io/#/)
 
 ---
 
